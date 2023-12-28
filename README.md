@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,15 +67,15 @@
       font-weight: bold; /* Make the caption (name) bold */
     }
 
-  .swiper-slide img {
-    width: 100%;
-    border-radius: 50%;
-    overflow: hidden;
-    box-shadow: 0 8px 18px rgb(48, 43, 48); /* Add a soft shadow */
-  }
-    
+    .swiper-slide img {
+      width: 100%;
+      border-radius: 50%;
+      overflow: hidden;
+      box-shadow: 0 8px 18px rgb(48, 43, 48); /* Add a soft shadow */
+    }
   </style>
 </head>
+
 <body>
 
   <h1>Purnea College, BCA HONS 1st Year 2023-2024 All Subject Notes</h1>
@@ -98,66 +99,7 @@
         <img src="https://drive.google.com/uc?id=1WltNH803bW3ld1VOhAiY4NL8iZ2kPd6Q" alt="DILSHAN ALAM">
         <div class="swiper-caption">DILSHAN ALAM</div>
       </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=1tuNZAq4STciOsfDvwBZwCDBBMDg7cYsf" alt="FUTURE IQRA">
-        <div class="swiper-caption">FUTURE IQRA</div>
-      </div>
-      <div class="swiper-slide">
-
-        <img src="https://drive.google.com/uc?id=12sCA37bbl5CNsBm4tiaEWKBD4blyKgIC" alt="MAAJ FAJAL">
-
-        <div class="swiper-caption">MAAJ FAJAL</div>
-
-      </div>
-      <div class="swiper-slide">
-
-        <img src="https://drive.google.com/uc?id=13oTVB0cdRId2YZGvAgb-215PPb5Po8B6" alt="AZHAR RAZA">
-
-        <div class="swiper-caption">AZHAR RAZA</div>
-
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=13vu3GEmhMZRsG4MYUR8uE_q7eUb1ze3O" alt="PRINCE  RAJ">
-        <div class="swiper-caption">PRINCE  RAJ</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="AMAN KUMAR MISHRA">
-        <div class="swiper-caption">AMAN KUMAR MISHRA</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="AMAN KUMAR">
-        <div class="swiper-caption">AMAN KUMAR</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="KISHLAY KUMAR">
-        <div class="swiper-caption">KISHLAY KUMAR</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="PIYUSH KUMAR">
-        <div class="swiper-caption">PIYUSH KUMAR</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="ABISHEK KUMAR">
-        <div class="swiper-caption">ABISHEK KUMAR</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="AANAND KUMAR">
-        <div class="swiper-caption">AANAND KUMAR</div>
-      </div>
-      
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="JAWAID ALI">
-        <div class="swiper-caption">JAWAID ALI</div>
-      </div>
-      
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="MOHIT KUMAR">
-        <div class="swiper-caption">MOHIT KUMAR</div>
-      </div>
-      <div class="swiper-slide">
-        <img src="https://drive.google.com/uc?id=17wAxzw4ASZ0qgXckOyjjecXRmOU_GVq7" alt="SATYAM JHA">
-        <div class="swiper-caption">SATYAM JHA</div>
-      </div>
+      <!-- Include other image slides here -->
     </div>
     <div class="swiper-pagination"></div>
   </div>
@@ -182,4 +124,5 @@
     });
   </script>
 </body>
+
 </html>
